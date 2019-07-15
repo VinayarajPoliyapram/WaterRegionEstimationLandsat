@@ -7,7 +7,9 @@ Details of the work can be found at https://doi.org/10.3390/s18124333
 1. Top of atmospheric reflectance 
 2. Generate indices and water region estimation using  modelled parameters; 
  **water** = [0.989465, 1.14267147, 0.78721398, −0.93026412, −0.57805818], bias = [0.8181203]
-**non-water** = [−1.04869103, −1.17793739, −0.73774189, 1.03303862, 0.65516961], bias = [0.88329011].
+ 
+**non-water** = [−1.04869103, −1.17793739, −0.73774189, 1.03303862, 0.65516961], bias = [0.88329011]
+
 3. Sunglint correction using sun zenith, sensor zenith, sun azimuth, and sensor azimuth 
 4. Snow correction usins snow index
 

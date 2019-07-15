@@ -3,4 +3,5 @@ Land cover classification and investigation of temporal changes are considered t
 
 Details of the work can be found at https://doi.org/10.3390/s18124333
 
-Landsat-8 data can be downloaded, unzip and kept in the defined loc folder (here it is 'Landsat_data') also a text file represent the the list of the datas kep at loc folder (here it is 'list_.txt')
+**Steps:-**
+Landsat-8 data can be downloaded, unzip and kept in the defined loc folder (here it is 'Landsat_data') also a text file represent the the list of the datas kep at loc folder (here it as 'list_.txt')

@@ -10,7 +10,7 @@ Details of the work can be found at https://doi.org/10.3390/s18124333
  **non-water** = [−1.04869103, −1.17793739, −0.73774189, 1.03303862, 0.65516961], bias = [0.88329011]
 
 3. Sunglint correction using sun zenith, sensor zenith, sun azimuth, and sensor azimuth 
-4. Snow correction usins snow index
+4. Snow correction using snow index
 
 **Notes:**
 Landsat-8 data can be downloaded, unzip and kept in the defined loc folder (here it is 'Landsat_data') also a text file represent the the list of the datas kep at loc folder (here it as 'list_.txt')

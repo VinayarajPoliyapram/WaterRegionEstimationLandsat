@@ -14,3 +14,7 @@ Details of the work can be found at https://doi.org/10.3390/s18124333
 
 **Notes:**
 Landsat-8 data can be downloaded, unzip and kept in the defined loc folder (here it is 'Landsat_data') also a text file represent the the list of the datas kep at loc folder (here it as 'list_.txt')
+
+**Citation:**
+Vinayaraj, P.; Imamoglu, N.; Nakamura, R.; Oda, A. Investigation on Perceptron Learning for Water Region Estimation Using Large-Scale Multispectral Images. Sensors 2018, 18, 4333.
+
